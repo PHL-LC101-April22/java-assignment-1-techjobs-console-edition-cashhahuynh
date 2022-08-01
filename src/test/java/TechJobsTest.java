@@ -13,7 +13,7 @@ import static org.junit.Assert.assertEquals;
 /**
  * Created by LaunchCode
  */
-public class TechJobsTest {
+public class TechJobsTest { //NEED TO RUN TechJobs.main here
 
     private static ByteArrayOutputStream baos;
 
